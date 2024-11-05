@@ -36,3 +36,15 @@ The questions were asked by the stakeholders while analyzing the Data -<br />
 ## Dashboard:
 Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiOTc1NjFmMjMtZDUwMi00MGUwLWI2ODItMTI3NTdkNWJlZDhmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
 
+
+
+### Page Info:
+
+![image](https://github.com/user-attachments/assets/b7cdcfb2-7f1c-40f6-a755-772d2ed53730)
+
+![image](https://github.com/user-attachments/assets/3c614f4b-9c19-415c-b29e-be3b717f32dd)
+
+![image](https://github.com/user-attachments/assets/b527c58f-6434-4903-b5e9-c7891fb0880b)
+
+## Linkedin Video:
+
