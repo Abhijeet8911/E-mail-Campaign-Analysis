@@ -34,17 +34,21 @@ The questions were asked by the stakeholders while analyzing the Data -<br />
 💡 
 
 ## Dashboard:
-Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiOTc1NjFmMjMtZDUwMi00MGUwLWI2ODItMTI3NTdkNWJlZDhmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
-
+Interactive report link: 
+https://app.powerbi.com/view?r=eyJrIjoiMjAzMDk2MzEtOWM5Ni00NTZmLWEyN2ItZjA1NTgzMGE2NTZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 
 ### Page Info:
 
-![image](https://github.com/user-attachments/assets/b7cdcfb2-7f1c-40f6-a755-772d2ed53730)
+![image](https://github.com/user-attachments/assets/25190dec-22b2-42aa-b61b-33d9c9834897)
+![image](https://github.com/user-attachments/assets/ccf42664-0857-4eb7-8771-2e993207bf9c)
+![image](https://github.com/user-attachments/assets/8a392438-4e1c-481e-999f-e5298251d85a)
 
-![image](https://github.com/user-attachments/assets/3c614f4b-9c19-415c-b29e-be3b717f32dd)
 
-![image](https://github.com/user-attachments/assets/b527c58f-6434-4903-b5e9-c7891fb0880b)
+About the Visuals:
+![About 1](https://github.com/user-attachments/assets/7c14a51c-76f3-49cd-9047-7ed923ecc729)
+![About 2](https://github.com/user-attachments/assets/f4f64f97-0333-4288-b5c2-087a9e81bd55)
+![About 3](https://github.com/user-attachments/assets/b4b9873a-86f9-4b05-9453-fd5e12d32c74)
 
 ## Linkedin Video:
 
