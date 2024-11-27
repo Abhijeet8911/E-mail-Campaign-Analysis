@@ -16,7 +16,7 @@
 9. Top campaigns<br />
 10. Self-Service BI report<br />
 
-## Questions: 
+## 💡Questions: 
 The questions were asked by the stakeholders while analyzing the Data -<br />
 ▶️Q. What are the top 10 campaigns from 2024/07-2024/09 based on click rate?<br />
 ▶️Q. What campaign type has highest bounce rate over time?<br />
@@ -31,7 +31,6 @@ The questions were asked by the stakeholders while analyzing the Data -<br />
 ▶️Q. Can we list the top 10 customers who spent the most from eachcountry every year?<br />
 
 
-💡 
 
 ## Dashboard:
 Interactive report link: 
@@ -51,4 +50,5 @@ About the Visuals:
 ![About 3](https://github.com/user-attachments/assets/b4b9873a-86f9-4b05-9453-fd5e12d32c74)
 
 ## Linkedin Video:
+https://www.linkedin.com/posts/abhijeetpathak23_dataanalyst-businessanalyst-powerbi-activity-7267409630731886592-zJUB?utm_source=share&utm_medium=member_desktop 
 
